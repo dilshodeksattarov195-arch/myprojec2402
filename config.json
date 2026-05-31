@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderstringify",
+        "uuid": 20414598,
+        "checksum": "wu8z7h"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
